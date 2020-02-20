@@ -5,7 +5,7 @@ import os
 import csv
 
 # set path for file
-budgetdata = os.path.join('Desktop/Python-Bank-Poll-Analyses/PyBank', 'budget_data.csv')
+budgetdata = os.path.join('Desktop/PythonResources', 'budget_data.csv')
 
 # open the CSV
 with open(budgetdata) as csvfile:
