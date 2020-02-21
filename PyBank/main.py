@@ -61,7 +61,7 @@ with open(budgetdata) as csvfile:
     print(f"Greatest Decrease in Losses: {min_amount_change_date} (${min_amount_change})")
 
 # set path for text file of results
-output_path = os.path.join('Desktop/Python-Bank-Poll-Analyses/PyBank', "pybank.txt")
+output_path = os.path.join('Desktop/Python-Bank-Analysis/PyBank', "pybank.txt")
 
 # create text file and print results to it
 f = open(output_path, 'w')
