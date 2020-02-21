@@ -16,13 +16,15 @@ with open(budgetdata) as csvfile:
     # read the header row first
     csv_header = next(csvreader)
     
-    # variables
+    # create lists to store the data
     date = []
     amount = []
     amount_change = []
 
     # read each row of data after the header
     for row in csvreader:
+        
+        # add data from the csv to the lists
         date.append(row[0])
         amount.append(int(row[1]))
 
