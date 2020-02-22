@@ -1,4 +1,4 @@
-# Python-Bank-Analysis
+# PyBank Challenge
 In this challenge, we are tasked with helping a small, rural town modernize its vote-counting process.
 
 This is a screenshot of my results in the terminal:
