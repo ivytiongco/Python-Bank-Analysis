@@ -10,8 +10,8 @@ The greatest decrease in losses (date and amount) over the entire period
 
 # Screenshot of my results in the terminal:
 
-![](PyBank/screenshots/PyBank_results_terminal_screenshot.png)
+![](screenshots/PyBank_results_terminal_screenshot.png)
 
 # Screenshot of my results in the included text file "pybank.txt":
 
-![](PyBank/screenshots/PyBank_results_textfile_screenshot.png)
+![](screenshots/PyBank_results_textfile_screenshot.png)
