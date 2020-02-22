@@ -8,10 +8,10 @@ The average of the changes in "Profit/Losses" over the entire period
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
-# Screenshot of results in the terminal:
+# Screenshot of my results in the terminal:
 
 ![](PyBank/screenshots/PyBank_results_terminal_screenshot.png)
 
-# Screenshot of results in the included text file "pybank.txt":
+# Screenshot of my results in the included text file "pybank.txt":
 
 ![](PyBank/screenshots/PyBank_results_textfile_screenshot.png)
